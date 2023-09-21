@@ -3,7 +3,3 @@ author: Marco Zink
 url: https://opensourcing.me
 remote_theme: "jeffreytse/jekyll-theme-yat"
 repository: "opensourcingme/opensourcingme.github.io"
-defaults:
-  home:
-    heading: "OpenSourcing.me"
-    subheading: "Taking OpenSource to you"
